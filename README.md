@@ -1,7 +1,1 @@
-# To-Do App Developed in Kotlin for the purpose of an online course
-
-Course Links 
-
-Udemy: https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/?referralCode=9836891EDBD1479ECF50
-
-![alt text](https://i.postimg.cc/SsqJrbjX/thumb.png)
+My Tasks is a To-Do App in which we can add our tasks to complete, edit the added tasks and swipe to delete. The main features of the application are - we can set priorities to the tasks, sort tasks according to priorities, and search tasks according to the title.
